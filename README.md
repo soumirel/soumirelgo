@@ -1,5 +1,3 @@
 # soumirelgo
 
-My go module for tests
-
-tag test
+v0.1.2
