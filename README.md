@@ -1,3 +1,3 @@
 # soumirelgo
 
-v0.1.2
+v1.0.0
