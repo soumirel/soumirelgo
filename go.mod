@@ -1,3 +1,3 @@
-module github.com/soumirel/soumirelgo/v1
+module github.com/soumirel/soumirelgo
 
 go 1.21.13
